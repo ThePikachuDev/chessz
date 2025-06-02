@@ -1,0 +1,2 @@
+0
+4636 8026073 1747841947708320438 e92ce077d2ecf27198ce8669ae7fb5de 3 p/raylib-5.5.0-whq8uFV0zQA9NXxhpYFZk_yHW6xzg5eKGmOtMJ2DOTdU/src/external/glfw/deps/wayland/fractional-scale-v1.xml

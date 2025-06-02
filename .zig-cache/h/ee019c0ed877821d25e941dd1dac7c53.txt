@@ -1,0 +1,2 @@
+0
+60418 8026087 1747841947731319901 41c1fb6c7a0be7ba724e40fa20418281 3 p/raylib-5.5.0-whq8uFV0zQA9NXxhpYFZk_yHW6xzg5eKGmOtMJ2DOTdU/src/external/glfw/deps/wayland/xdg-shell.xml
