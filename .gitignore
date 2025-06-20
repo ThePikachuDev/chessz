@@ -1,3 +1,7 @@
-.zig-cache/*
-./zig-out/*
+zig-out/
+.zig-cache/
 *.o
+*.bin
+*.exe
+*.a
+
